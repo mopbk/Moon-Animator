@@ -7,7 +7,7 @@ this is the original unedited file:
 
 [Moon Animator 2 !V36000.zip](https://github.com/user-attachments/files/30962479/Moon.Animator.2.V36000.zip)
 
-in this one I deleted one line that prevents sharing the files: **(THIS IS THE ONE YOU WANT)**
+in this one I deleted one line that prevents sharing the files: **(THIS IS THE ONE YOU WANT):**
 
 [Moon Animator 2 !V36000 (bypassed).zip](https://github.com/user-attachments/files/30962480/Moon.Animator.2.V36000.bypassed.zip)
 
