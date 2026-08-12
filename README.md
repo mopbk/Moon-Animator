@@ -9,7 +9,7 @@ this is the original unedited file:
 
 in this one I deleted one line that prevents sharing the files: **(THIS IS THE ONE YOU WANT):**
 
-[Moon Animator 2 !V36000 (bypassed).zip](https://github.com/user-attachments/files/30962480/Moon.Animator.2.V36000.bypassed.zip)
+[Moon Animator 2 !V36000 (bypassed).zip](https://github.com/user-attachments/files/31000503/Moon.Animator.2.V36000.bypassed.zip)
 
 _you can search up a tutorial on how to upload local plugins on youtube._
 
